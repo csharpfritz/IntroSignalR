@@ -1,0 +1,13 @@
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\bin\MoveShape_Backup.dll
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\bin\MoveShape_Backup.pdb
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\bin\Microsoft.AspNet.SignalR.Hosting.AspNet.dll
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\bin\Microsoft.AspNet.SignalR.Hosting.Common.dll
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\bin\Newtonsoft.Json.dll
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\bin\Microsoft.AspNet.SignalR.Hosting.AspNet.xml
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\bin\Microsoft.AspNet.SignalR.Hosting.Common.xml
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\bin\Newtonsoft.Json.xml
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\obj\Debug\MoveShape_Backup.csprojResolveAssemblyReference.cache
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\obj\Debug\MoveShape_Backup.dll
+D:\demo\PhillyCC-2012.2\MoveShape_Backup\obj\Debug\MoveShape_Backup.pdb
